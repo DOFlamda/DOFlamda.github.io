@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![DOFlamda](https://img.shields.io/badge/DOFlamda-github-blue?logo=github)](https://github.com/DOFlamda)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Experiencing the collision and integration of scientific experiments and statistics, I realized the charm and value of statistics as a methodological discipline.My motto is: Elegant as python.
 
 #### Email
-sli[at]cumt.edu.cn
+seaoxzb[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.Ec., Economic statistics, Nanjing University of Posts and Telecommunications, 2021—2025.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Data mining, Economic Statistics, Time-Series Analysis, Machine Learning, Interdisciplinary applications.
 
