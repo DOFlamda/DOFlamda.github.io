@@ -9,24 +9,18 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=ij7kxFAAAAAJ">
     <i class="fa-brands fa-google-scholar"></i>
   </a>
-  <a href="https://orcid.org/my-orcid?orcid=0009-0001-0494-3757">
+  <a href="https://orcid.org/0009-0001-0494-3757">
     <i class="fa-brands fa-orcid"></i>
-  </a>
-  <a href="https://vjudge.net/user/DOFlamda">
-    <i class="fa-solid fa-smile"></i>
   </a>
   <a href="https://space.bilibili.com/455063871">
     <i class="fa-brands fa-bilibili"></i>
   </a>
-  <a href="https://www.iconfont.cn/">
-    <i class="fa-brands fa-zhihu"></i>
-  </a>
   <br/>
-  水野爱、佐贺偶像是传奇、吹响吧！上低音号、FGO、以及我的黑柴犬吴豆豆
+  山东→南京→上海→未知
   <br/>
-  「奏でろ 荒ぶる魂」
+  「言い訳はしません」
   <br/>
-  “我的灵魂奏出绝响”
+  Elegance, like Python.
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
