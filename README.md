@@ -1,5 +1,5 @@
 # My Blogger
-
+点击右上角以开始
 - [我的个人主页](https://doflamda.github.io/)
 
 <!-- .slide -->
