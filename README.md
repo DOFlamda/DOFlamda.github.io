@@ -1,5 +1,17 @@
-# blog
+# My Blogger
 
-"Hello, world!"
+- [我的个人主页](https://doflamda.github.io/)
 
-点击右上角以开始
+<!-- .slide -->
+
+## 随笔
+
+- 待施工
+
+<!-- .slide vertical=true -->
+
+- 待施工
+
+<!-- .slide vertical=true -->
+
+- 待施工
