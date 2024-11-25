@@ -1,3 +1,2 @@
 # blog
-a
-12
+"Hello, world!"
