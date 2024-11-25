@@ -24,7 +24,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   Elegance
   <br/>
   like Python.
-baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
+baseurl: "/blog" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
   - scope:
@@ -94,7 +94,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   async='async'
                   onload='
                     SimpleJekyllSearch({
-                      json: "/assets/simple-jekyll-search/search.json",
+                      json: "/blog/assets/simple-jekyll-search/search.json",
                       searchInput: document.getElementById("sidebar-search-input"),
                       resultsContainer: document.getElementById("sidebar-search-results-container"),
                       searchResultTemplate: `<li><a href="{url}">{title}</a></li>`,
@@ -601,9 +601,9 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 content="upgrade-insecure-requests"
               />
             - | # merger的页面样式
-              <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/hifocus/merger@0.26.1/assets/styles/spectre.css/spectre-modified.min.css,gh/hifocus/merger@0.26.1/assets/styles/style.min.css">
+              <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/gh/hifocus/merger@0.26.1/blog/assets/styles/spectre.css/spectre-modified.min.css,gh/hifocus/merger@0.26.1/blog/assets/styles/style.min.css">
               <script defer="defer" src="https://cdn.jsdelivr.net/combine/npm/jquery@3.5.1"></script>
-              <script defer="defer" src="https://cdn.jsdelivr.net/combine/gh/lrsjng/jquery-qrcode@0.18.0/dist/jquery-qrcode.min.js,npm/blueimp-md5@2.18.0/js/md5.min.js,gh/hifocus/merger@0.26.1/assets/js/function.min.js,gh/hifocus/merger@0.26.1/assets/js/font_974919_xgtacm93vxp.min.js"></script>
+              <script defer="defer" src="https://cdn.jsdelivr.net/combine/gh/lrsjng/jquery-qrcode@0.18.0/dist/jquery-qrcode.min.js,npm/blueimp-md5@2.18.0/js/md5.min.js,gh/hifocus/merger@0.26.1/blog/assets/js/function.min.js,gh/hifocus/merger@0.26.1/blog/assets/js/font_974919_xgtacm93vxp.min.js"></script>
         home: # 展示页的配置可跳过，详见<https://revealjs.com/>
           append_to_section_tag:
             - key: data-markdown
