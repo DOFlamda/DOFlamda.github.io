@@ -1,4 +1,4 @@
-title: doflamda # 站点标题
+title: doflamda blog # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="mailto:seaoxzb@gmail.com">
     <i class="fa-solid fa-envelope"></i>
@@ -18,6 +18,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <br/>
   <br/>
   山东→南京→上海→未知
+  <br/>
   <br/>
   「言い訳はしません」
   <br/>
@@ -51,7 +52,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://avatars.githubusercontent.com/u/186044872?v=4 # 头像的地址
+              img: https://raw.githubusercontent.com/DOFlamda/ImgHost/refs/heads/main/image/linepuppy.jfif # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
                 href: /blog/
@@ -559,8 +560,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             </a>
             （除特别声明或转载文章外）
             <br/>
-            <i class="fa-solid fa-coffee fa-fw"></i>
-            <a href="/merger/">如果这篇博客帮助到你，可以请我喝一杯咖啡~</a>
         home: # 展示页的配置可跳过，详见<https://revealjs.com/>
           append_to_section_tag:
             - key: data-markdown
