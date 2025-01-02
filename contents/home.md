@@ -16,4 +16,5 @@ B.Ec., Economic statistics, Nanjing University of Posts and Telecommunications, 
 #### Research Interests
 Data mining, Economic Statistics, Time-Series Analysis, Machine Learning, Interdisciplinary applications.
 
+ [My essays.](https://xuzbo.icu/blog/tags/)
  [Leaving a message.](https://xuzbo.icu/blog/comments/)
